@@ -13,7 +13,6 @@ This repository hosts the reference implementation and supporting materials for
 ## Repository Structure
 
 ```
-
 smart-agent-toolchain/
 ├── agent\_pi/             # Agent-π: Tool construction module
 ├── contextmate/          # ContextMate: Context-aware chaining module
@@ -23,8 +22,7 @@ smart-agent-toolchain/
 ├── docs/                 # Architecture diagrams & extended documentation
 ├── requirements.txt      # Python dependencies
 └── README.md             # This overview
-
-````
+```
 
 ## Installation
 
@@ -32,7 +30,7 @@ smart-agent-toolchain/
    ```bash
    git clone https://github.com/<your-org>/smart-agent-toolchain.git
    cd smart-agent-toolchain
-````
+   ```
 
 2. **Create a virtual environment**
 
